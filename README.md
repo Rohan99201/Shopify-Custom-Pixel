@@ -1,11 +1,11 @@
 # Shopify GA4 Implementation using Google Tag Manager
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Shopify_logo_2018.svg/512px-Shopify_logo_2018.svg.png" alt="Shopify" height="70" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Shopify_logo_2018.svg/960px-Shopify_logo_2018.svg.png" alt="Shopify" height="70" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Google_Analytics.svg/512px-Logo_Google_Analytics.svg.png" alt="Google Analytics 4" height="70" />
+  <img src="https://www.vixendigital.com/wp-content/uploads/2023/04/GA4_Logo.png" alt="Google Analytics 4" height="70" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Google_Tag_Manager.svg/512px-Google_Tag_Manager.svg.png" alt="Google Tag Manager" height="70" />
+  <img src="https://mountain.com/wp-content/uploads/2025/08/logo-google-tag-manager.png" alt="Google Tag Manager" height="70" />
 </p>
 
 ---
